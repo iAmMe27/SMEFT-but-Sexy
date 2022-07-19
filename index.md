@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## SMEFT but Sexy Readme
 
-You can use the [editor on GitHub](https://github.com/iAmMe27/SMEFT-but-Sexy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You will need to read through this readme thoroughly before you get going. Setting up to install SMEFT but Sexy requires a little more effort than a standard Wabbajack modlist as there's a couple extra things to download.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Index
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Important Information
 
-# Header 1
-## Header 2
-### Header 3
+**Wabbajack modlists install their OWN independent instance of Mod Organizer 2. They don't work with Mod Organizer instances you installed yourself.**
 
-- Bulleted
-- List
+**This list might require the latest Steam version of Skyrim SE(Special Edition)/AE(Anniversary Edition) installed, BUT it will downgrade it to version 1.5.97 due to the greater compatibility of that version with mods. You can however still use the AE included and bought via DLC Creation Club mods.**
 
-1. Numbered
-2. List
+**How to use the Creation Club is explained [here](https://github.com/EzioTheDeadPoet/SME-FT-/tree/SMEFT-2.0#creation-club--anniversary-edition-upgrade-content).**
 
-**Bold** and _Italic_ and `Code` text
+**If you want to learn more about modding Skyrim, you can read up on it on the [/r/skyrimmods wiki](https://www.reddit.com/r/skyrimmods/wiki/begin2) or follow the [Guides by Lively](https://github.com/LivelyDismay/Learn-To-Mod/wiki) & [modding resources by The-Animonculory](https://github.com/The-Animonculory/Modding-Resources) on how to get started and with Skyrim modding.**
 
-[Link](url) and ![Image](src)
-```
+### Description
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iAmMe27/SMEFT-but-Sexy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This modlist is a utility for modders, to speed up their initial modding setup, or for people who want to play vanilla Skyrim with all the unofficial patches and fixes. It can also be utilized as a test bench for developing new mods on a stable base.
