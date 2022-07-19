@@ -65,7 +65,7 @@ If you want to change NPCs out, make sure to check over the NPC CR patch include
 
 #### What's included?
 
-The list contains mods that fall into 4 categories.
+The list contains mods that fall into 2 main categories.
 
 **Tools**
 - [BethINI](http://nexusmods.com/skyrimspecialedition/mods/4875)
@@ -89,7 +89,7 @@ The list contains mods that fall into 4 categories.
 
 **Mods**
 
-*Insert link to load order library here*
+[Load Order Library](https://loadorderlibrary.com/lists/smeft-but-sexy)
 
 ### Installation
 
@@ -105,13 +105,14 @@ These steps are only needed if you are installing this modlist for the first tim
 
 I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from Microsoft. Download the x64 version under "Visual Studio 2015, 2017 and 2019".
 
-|[Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe)|
+[Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
 ##### Installing .NET 6.0
 
 This is a needed dependency for mods used with this list. So please make sure to install it to avoid any issues. Download the desktop app x64 AND the console app x64 versions from Microsoft.
 
-[Direct Link Desktop](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.5-windows-x64-installer) | [Direct Link Console](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.5-windows-x64-installer)
+- [Direct Link Desktop](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.5-windows-x64-installer)
+- [Direct Link Console](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.5-windows-x64-installer)
 
 ##### Steam Config
 
@@ -318,8 +319,8 @@ Not included by default, but there are the instructions in the Ultrawide Fixes S
 
 ### Credits and Thanks
 - You, for actually reading the entirety of the README
-- Luca|EzioTheDeadPoet for making SMEFT which this modlist is based on
-- Halgari and everyone on the Wabbajack Team
+- LucaEzioTheDeadPoet for making SMEFT which this modlist is based on
+- Halgari and everyone on the Wabbajack team
 - All the mod authors that made the mods featured in this list
 
 ### Contact
