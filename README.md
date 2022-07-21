@@ -1,6 +1,6 @@
 # SMEFT but Sexy
 
-![SMEFT but Sexy Banner](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/SMEFTBS.webp)
+![SMEFT but Sexy Banner]([https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/SMEFTBS.webp](https://raw.githubusercontent.com/iAmMe27/SMEFT-but-Sexy/gh-pages/img/SMEFTBS.webp))
 
 What is SMEFT but Sexy you ask? Well, I'll tell you!
 
