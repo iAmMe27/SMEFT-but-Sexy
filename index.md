@@ -2,6 +2,8 @@
 
 You will need to read through this readme thoroughly before you get going. Setting up to install SMEFT but Sexy requires a little more effort than a standard Wabbajack modlist as there's a couple extra things to download.
 
+![Banner](img/SMEFTBS.webp)
+
 ### Index
 
 - [SMEFT but Sexy Readme](#smeft-but-sexy-readme)
